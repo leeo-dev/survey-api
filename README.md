@@ -1,6 +1,6 @@
 # **Clean Node API**
 
-API feitano treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
+<!-- API feita no treinamento do professor Rodrigo Manguinho (Mango) na Udemy.
 
 O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID e, sempre que possível, aplicando Design Patterns para resolver alguns problemas comuns.
 <br /><br />
@@ -15,7 +15,7 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 3. [Criar enquete](./requirements/add-survey.md)
 4. [Listar enquetes](./requirements/load-surveys.md)
 5. [Responder enquete](./requirements/save-survey-result.md)
-6. [Resultado da enquete](./requirements/load-survey-result.md)
+6. [Resultado da enquete](./requirements/load-survey-result.md) -->
 
 > ## Principles
 
@@ -95,20 +95,20 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 * Bson ObjectId
 * Apollo Server Integration Testing
 
-> ## Features do Node
+> ## Node Features
 
-* Documentação de API com Swagger
-* API Rest com Express
-* GraphQL com Apollo Server
-* Log de Erro
-* Segurança (Hashing, Encryption e Encoding)
+* Documentation API with Swagger
+* API Rest with Express
+* GraphQL with Apollo Server
+* Error log
+* Security (Hashing, Encryption e Encoding)
 * CORS
 * Middlewares
-* Nível de Acesso nas Rotas (Admin, User e Anônimo)
-* Deploy no Heroku
-* Servir Arquivos Estáticos
+* Routes Access Level (Admin, User e Anonymous)
+* Heroku's deploy 
+* Serve Static File
 
-> ## Features do GraphQL
+> ## GraphQL Features
 
 * Types
 * Queries
@@ -118,7 +118,7 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 * Scalars
 * Plugins
 
-> ## Features do Git
+> ## Git Features
 
 * Alias
 * Log Personalizado
@@ -130,20 +130,20 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 * Rebase
 * Merge
 
-> ## Features do Typescript
+> ## Typescript Features
 
-* POO Avançado
+* Advanced OOP
 * Interface
 * TypeAlias
 * Namespace
 * Utility Types
-* Modularização de Paths
-* Configurações
+* Paths Modularization
+* Settings
 * Build
 * Deploy
-* Uso de Breakpoints
+* Use of Breakpoints
 
-> ## Features do GraphQL
+> ## GraphQL Features
 
 * Resolvers
 * Type Definitions
@@ -152,7 +152,7 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 * Plugins
 * Error Handling
 
-> ## Features de Testes
+> ## Tests Features
 
 * Testes Unitários
 * Testes de Integração (API Rest & GraphQL)
@@ -163,7 +163,7 @@ O objetivo do treinamento é mostrar como criar uma API com uma arquitetura bem 
 * Spies
 * Fakes
 
-> ## Features do MongoDb
+> ## MongoDb Features
 
 * Connect e Reconnect
 * Collections
