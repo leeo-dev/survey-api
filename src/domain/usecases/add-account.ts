@@ -1,3 +1,4 @@
+/* istanbul ignore file */
 import { AccountModel } from '../models/account'
 
 export interface AddAccountModel {

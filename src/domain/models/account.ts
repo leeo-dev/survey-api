@@ -4,3 +4,4 @@ export interface AccountModel {
   email: string
   password: string
 }
+/* istanbul ignore file */
